@@ -1,2 +1,3 @@
 # RockPaperScissor
-I have created a game using HTML, CSS and JAVASCRIPT.
+
+🤘 Dive into the RockPaperScissor project, a fun and interactive web-based game implemented with HTML, CSS, and JavaScript! Play now at: https://adithyasalian23.github.io/RockPaperScissor/ 🌐🎮
